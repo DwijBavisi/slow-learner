@@ -1,0 +1,60 @@
+{
+    "url": {
+        "8ace618f1d74a7e9ad334a72a4448db1": [
+            "https://www.google.com/doodles/"
+        ],
+        "5ddb5459f894d236f6e33dfb33d83801": [
+            "https://leetcode.com/contest/weekly-contest-337/ranking/"
+        ],
+        "bcd38a7b0c3286030836a9b2a6ee0a99": [
+            "https://www.google.com/doodles/celebrating-bubble-tea/"
+        ],
+        "dcf87df0e31ed777f0cfba8583a2673e": [
+            "https://stackoverflow.com/questions/44113335/extract-domain-from-url-in-python"
+        ],
+        "7f4c919540be6ec81cd37d9e61da6c37": [
+            "https://stackoverflow.com"
+        ],
+        "153e1daf5f6e48460ac8bc214286e891": [
+            "https://stackoverflow.com/teams"
+        ],
+        "9836e7c312385877214d02398259d3f5": [
+            "https://stackoverflow.co/talent"
+        ],
+        "32361ce2db14c646f12d4a86a0018736": [
+            "https://stackoverflow.co/"
+        ],
+        "403d4acf7789bfc711881506ce27f688": [
+            "https://stackoverflow.com/help"
+        ]
+    },
+    "doc": {
+        "3902d8f5b2e36f71ca828c988d3bfcff": [
+            "https://www.google.com/doodles/"
+        ],
+        "5fcf658b6d3e0a6e2c5b1073cd3a2648": [
+            "https://leetcode.com/contest/weekly-contest-337/ranking/"
+        ],
+        "0ce57ce6ffe2dddb3618200fb8e5f89d": [
+            "https://www.google.com/doodles/celebrating-bubble-tea/"
+        ],
+        "3a7734b45bf474a72245b55382fb0401": [
+            "https://stackoverflow.com/questions/44113335/extract-domain-from-url-in-python"
+        ],
+        "1b6ba14c543d1923e816768a0b9d1776": [
+            "https://stackoverflow.com"
+        ],
+        "56b096a4d565e18b00fe183c7915fd8e": [
+            "https://stackoverflow.com/teams"
+        ],
+        "10bcf7b8100cca7c8489b1c55d64decf": [
+            "https://stackoverflow.co/talent"
+        ],
+        "8e7fefbaf962edfa8b0727999f012c71": [
+            "https://stackoverflow.co/"
+        ],
+        "b405a473bb578bb236d5c3daa97c26be": [
+            "https://stackoverflow.com/help"
+        ]
+    }
+}

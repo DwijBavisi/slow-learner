@@ -1,0 +1,22 @@
+{
+    "editor.fontSize": 18,
+    "editor.formatOnSave": false,
+    "editor.formatOnType": false,
+    "editor.guides.bracketPairs": "active",
+    "editor.renderWhitespace": "boundary",
+    "editor.rulers": [
+        80
+    ],
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "editor.quickSuggestions": {
+        // "strings": true
+    },
+    "files.autoSave": "afterDelay",
+    "files.insertFinalNewline": true,
+    // "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "liveServer.settings.NoBrowser": true,
+    "scssFormatter.singleQuote": true,
+    "python.analysis.typeCheckingMode": "strict",
+}
